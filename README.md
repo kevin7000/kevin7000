@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate frontend developer from costa rica</h3>
 
-- 💬 Ask me about **react, java Script, Mongodb, Mysql, Html, css.**
+- 💬 Ask me about **react, java Script, Mongodb, Mysql, Html, css, react.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
